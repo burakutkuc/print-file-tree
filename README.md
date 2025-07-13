@@ -24,15 +24,6 @@ Enter the folder path: /home/user/my_project
 
 ## 🚀 Getting Started
 
-### ✅ Requirements
-
-No installation required. Just clone the repository:
-
-```bash
-git clone https://github.com/burakutkuc/print-file-tree.git
-cd print-file-tree
-```
-
 ### Usage
 
 Run the script using Python:
